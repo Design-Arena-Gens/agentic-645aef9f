@@ -29,7 +29,6 @@ lerna-debug.log*
 pnpm-debug.log*
 
 # Package manager lock files
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-store/
@@ -234,7 +233,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -883,7 +881,6 @@ venv.bak/
 *.json
 *.xml
 *.parquet
-data/
 datasets/
 
 # ===== CUSTOM PROJECT FILES =====
